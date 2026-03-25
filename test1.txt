@@ -1,1 +1,1 @@
-Hello World Program
+Welcome Git Class
