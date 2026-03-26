@@ -1,2 +1,1 @@
-console.log("Day 2 GIT")
-console.log("Updation was Made in local");
+console.log("Day 4 GIT");
